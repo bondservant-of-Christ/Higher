@@ -16,7 +16,7 @@ import android.webkit.WebViewClient;
 
 /** Thin shell: the game itself lives on GitHub Pages, so updates arrive without reinstalling. */
 public class MainActivity extends Activity {
-    static final String GAME_URL = "https://bondservant-of-christ.github.io/higher/";
+    static final String GAME_URL = "https://bondservant-of-christ.github.io/Higher/";
     private WebView web;
 
     @Override
